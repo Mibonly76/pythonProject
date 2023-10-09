@@ -1,0 +1,63 @@
+A7ci0
+Illusion 1 c
+Illusion 4 o
+Abjuration
+Abracadabra
+
+
+TR1GG3R
+Necromancy
+Illusion 8 m
+Illusion 9 n
+Abracadabra
+
+
+SwordMaster
+Target Target Target
+Abjuration
+Necromancy
+Alteration master
+Abracadabra
+
+2
+!Send!:[IvanisHere]
+*Time@:[Itis5amAlready
+
+
+3
+go:[outside]
+!drive!:YourCarToACarWash
+!Watch!:[LordofTheRings]
+
+
+#####################################################
+
+
+10
+Add=Berg=9=0
+Add=Kevin=0=0
+Message=Berg=Kevin
+Add=Mark=5=4
+Statistics
+
+
+
+20
+Add=Mark=3=9
+Add=Berry=5=5
+Add=Clark=4=0
+Empty=Berry
+Add=Blake=9=3
+Add=Michael=3=9
+Add=Amy=9=9
+Message=Blake=Amy
+Message=Michael=Amy
+Statistics
+
+
+12
+Add=Bonnie=3=5
+Add=Johny=4=4
+Empty=All
+Add=Bonnie=3=3
+Statistics
